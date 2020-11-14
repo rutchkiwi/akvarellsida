@@ -23,8 +23,6 @@ h2:first-of-type {
 figure {
 	margin-bottom: 10rem;
 	margin-top: 3rem;
-	max-width: calc(100vw - 100px);
-	width: auto;
 	display: inline-block;
 }
 
