@@ -20,6 +20,11 @@ h2:first-of-type {
 	margin-top: 2rem;
 }
 
+figure {
+	margin-bottom: 10rem;
+	margin-top: 6rem;
+}
+
 img {
 	max-width: calc(100vw - 100px);
 	max-height: 30rem;
@@ -37,15 +42,17 @@ img {
 }
 
 figcaption {
-	font-size: 1.5rem;
-	margin: 1rem;
-	text-align: left;
-}
-.date {
+	color: rgba(0,0,0,0.8);
+	width: auto;
 	display: block;
+	border-radius: 2px;
+	padding: 10px;
+	margin: 1rem;
+	text-align: right;
 }
 
-figure {
-	display: flex;
+figcaption .title {
+	display: block;
+	margin-bottom: 0.25rem;
+	font-size: 1.25rem;
 }
-
