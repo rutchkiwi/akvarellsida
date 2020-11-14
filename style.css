@@ -39,6 +39,15 @@ img {
 	-2px -2px 1px rgba(0,0,0,0.5) inset,
 	20px 4px 10px rgba(0,0,0,0.35), 
 	40px 8px 10px rgba(0,0,0,0.15);
+	transition: all 0.4s ease;
+}
+
+a:hover img, a:focus img {
+	transform: scale(1.02);
+		box-shadow: 
+	-2px -2px 1px rgba(0,0,0,0.5) inset,
+	23px 8px 12px rgba(0,0,0,0.26), 
+	44px 14px 14px rgba(0,0,0,0.15);
 }
 
 figcaption {
