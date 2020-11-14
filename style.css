@@ -35,3 +35,17 @@ img {
 	20px 4px 10px rgba(0,0,0,0.35), 
 	40px 8px 10px rgba(0,0,0,0.15);
 }
+
+figcaption {
+	font-size: 1.5rem;
+	margin: 1rem;
+	text-align: left;
+}
+.date {
+	display: block;
+}
+
+figure {
+	display: flex;
+}
+
