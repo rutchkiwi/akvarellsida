@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: lightgray;
+}
+
+figure {
+  display: inline-block;
+  background-color: lightblue;
+}
+
+img {
+  max-width: 20vw;
+  max-height: 300px;
+  height: auto;
+  width: auto;
+  background-color: black;
+  display: inline-block;
+}
+
+figure img {
+  background-color: gray;
+}
