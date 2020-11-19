@@ -10,7 +10,7 @@ body {
 	font-family: 'Georgia', serif;
 	color: hsl(0, 3%, 20%);
 	text-align: center;
-  background: linear-gradient(110deg, white, hsl(32.3, 3.1%, 70%))
+	background: linear-gradient(110deg, white, hsl(32.3, 3.1%, 70%))
 }
 
 h2 {
