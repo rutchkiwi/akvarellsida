@@ -120,6 +120,14 @@
 		<div class="date">Aug 2020</div>
 	</figcaption>
 </figure>
+
+<script type="text/javascript">
+	// For safari, or other browsers where classes are retained in a bfcache
+	window.h.addEventListener("animationend", function() {
+		console.log("The animation has ended!");
+		document.querySelector('h1').classList.add('animationDone');
+	});
+</script>
 </main>
 </body>
 </html>
