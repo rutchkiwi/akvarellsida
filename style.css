@@ -13,11 +13,23 @@ body {
 	background: linear-gradient(110deg, white, hsl(32.3, 3.1%, 70%))
 }
 
-h2 {
-	margin-top: 5rem;
+h1 {
+	color: hsl(0, 3%, 23%);
 }
-h2:first-of-type {
-	margin-top: 2rem;
+
+.v {
+  stroke-dasharray: 0;
+  stroke-dashoffset: 0;
+  /* animation: dash 5s linear alternate infinite; */
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
 }
 
 main {
