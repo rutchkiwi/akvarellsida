@@ -8,24 +8,35 @@ svg {
 
 body {
 	font-family: 'Georgia', serif;
-	color: hsl(0, 3%, 20%);
+	color: hsl(0, 15%, 20%);
 	text-align: center;
 	background: linear-gradient(110deg, white, hsl(32.3, 3.1%, 70%))
 }
 
-h1 {
+path {
+	stroke-dasharray: 1;
+	stroke-dashoffset: 1;
+	animation: 1s cubic-bezier(.26,.21,.98,.9) 0s 1 forwards dash;
 }
 
-.v {
-  stroke-dasharray: 0;
-  stroke-dashoffset: 0;
-  /* animation: dash 5s linear alternate infinite; */
+#v {
 }
+
+#l {
+	animation-delay: 1.3s;
+	animation-timing-function: linear;
+	animation-duration: 0.15s;
+}
+
+#h {
+	animation-delay: 1.6s;
+	animation-duration: 2s;
+	animation-timing-function: cubic-bezier(.43,.46,.97,.61);
+	animation-iteration-count: 1;
+}
+
 
 @keyframes dash {
-  from {
-    stroke-dashoffset: 1;
-  }
   to {
     stroke-dashoffset: 0;
   }
@@ -38,7 +49,8 @@ main {
 }
 
 figure {
-  margin: 4rem;
+	margin: 4rem;
+	animation: 1s cubic-bezier(.26,.21,.98,.9) 0s 1 forwards dash;
 }
 
 
@@ -50,8 +62,7 @@ img {
 	width: auto;
 	height: auto;
 	padding: 40px 50px;
-  transition: opacity 0.6s ease;
-
+	transition: opacity 0.6s ease;
 }
 
 @media (max-width: 450px) {
@@ -59,6 +70,8 @@ img {
 		padding: 30px;
 	}	
 }
+
+
 
 a {
 	display: block;
