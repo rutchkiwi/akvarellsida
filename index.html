@@ -8,6 +8,11 @@
 </head>
 <body>
 <h1>
+	<script>
+	 if(window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+		document.querySelector('h1').classList.add('animationDone');
+	}
+	</script>
 	<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 0 1540 272" 
 		fill="none" stroke="currentColor" stroke-width="25" stroke-linecap="round" stroke-linejoin="round">
 		<title>Viktor Holmberg</title>
@@ -25,7 +30,7 @@
   width='2560px' height='1861px'%3E%3C/svg%3E"
   style="opacity: 0" height="2541" width="3548" 
   			 onload="this.src='/s_fruits.jpg'; 
-  			         this.onload=function(){console.log(this); this.style = 'opacity: 1'; this.onload=null;};">
+  			         this.onload=function(){this.style = 'opacity: 1'; this.onload=null;};">
 	</a>
 	<figcaption>
 		<div class="title">Fruits</div>
@@ -41,7 +46,7 @@
   width='2560px' height='1861px'%3E%3C/svg%3E"
   style="opacity: 0" height="1861"  width="2560" 
   			 onload="this.src='/s_arctic_sun_2.jpg'; 
-  			         this.onload=function(){console.log(this); this.style = 'opacity: 1'; this.onload=null;};">
+  			         this.onload=function(){this.style = 'opacity: 1'; this.onload=null;};">
 	</a>
 	<figcaption>
 		<div class="title">Arctic Sun 2</div>
@@ -57,7 +62,7 @@
   width='2819px' height='2049px'
   style="opacity: 0" 
   			 onload="this.src='/s_seal.jpg';
-  			         this.onload=function(){console.log(this); this.style = 'opacity: 1'; this.onload=null;};">
+  			         this.onload=function(){this.style = 'opacity: 1'; this.onload=null;};">
 	</a>
 	
 	<figcaption>
@@ -73,7 +78,7 @@
   width='2412px' height='1572px'
   style="opacity: 0" 
   			 onload="this.src='/s_toast.jpg';
-  			         this.onload=function(){console.log(this); this.style = 'opacity: 1'; this.onload=null;};">
+  			         this.onload=function(){this.style = 'opacity: 1'; this.onload=null;};">
 	</a>
 	
 	<figcaption>
@@ -89,7 +94,7 @@
   width='1888px' height='2562px'
   style="opacity: 0" 
   			 onload="this.src='/s_old_man.jpg';
-  			         this.onload=function(){console.log(this); this.style = 'opacity: 1'; this.onload=null;};">
+  			         this.onload=function(){this.style = 'opacity: 1'; this.onload=null;};">
 	</a>
 	
 	<figcaption>
@@ -105,7 +110,7 @@
   width='1896px' height='2625px'
   style="opacity: 0" 
   			 onload="this.src='/s_bridge.jpg';
-  			         this.onload=function(){console.log(this); this.style = 'opacity: 1'; this.onload=null;};">
+  			         this.onload=function(){this.style = 'opacity: 1'; this.onload=null;};">
 	</a>
 	
 	<figcaption>
