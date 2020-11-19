@@ -62,7 +62,7 @@ img {
 	width: auto;
 	height: auto;
 	padding: 40px 50px;
-	transition: opacity 0.6s ease;
+	transition: opacity 1.5s ease;
 }
 
 @media (max-width: 450px) {
