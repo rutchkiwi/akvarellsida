@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Viktorcolors</title>
+ <description>Watercolors by me, Viktor Holmberg</description>
+ <image>https://viktor.pictures/viktor-holmberg.png</image>
+ <link>https://viktor.pictures</link>
+ <managingEditor>viktor.holmberg@gmail.com</managingEditor>
+
+ <item>
+  <title>Arctic sun</title>
+  <link>https://viktor.pictures/seal.jpg</link>
+  <description><![CDATA[<img src="https://viktor.pictures/seal.jpg">]]></description>
+ </item>
+
+
+<item>
+	<title>Fruits</title>
+	<link>https://viktor.pictures/fruits.jpg</link>
+	<description><![CDATA[<img src='https://viktor.pictures/fruits.jpg']]>
+	</description>
+</item>
+
+<item>
+	<title>Arctic Sun 2</title>
+	<link>https://viktor.pictures/arctic_sun_2.jpg</link>
+	<description><![CDATA[<img src='https://viktor.pictures/arctic_sun_2.jpg']]>
+	</description>
+</item>
+
+<item>
+	<title>Arctic Sun</title>
+	<link>https://viktor.pictures/seal.jpg</link>
+	<description><![CDATA[<img src='https://viktor.pictures/seal.jpg']]>
+	</description>
+</item>
+
+
+<item>
+	<title>New Toaster</title>
+	<link>https://viktor.pictures/toast.jpg</link>
+	<description><![CDATA[<img src='https://viktor.pictures/toast.jpg']]>
+	</description>
+</item>
+
+
+<item>
+	<title>The old man</title>
+	<link>https://viktor.pictures/old_man.jpg</link>
+	<description><![CDATA[<img src='https://viktor.pictures/old_man.jpg']]>
+	</description>
+</item>
+
+
+<item>
+	<title>Railway Bridge over Regents Canal</title>
+	<link>https://viktor.pictures/bridge.jpg</link>
+	<description><![CDATA[<img src='https://viktor.pictures/bridge.jpg']]>
+	</description>
+</item>
+
+</channel>
+</rss>

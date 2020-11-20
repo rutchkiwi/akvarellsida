@@ -83,7 +83,7 @@ img {
 
 
 
-a {
+main a {
 	display: block;
 	border-radius: 5px;
 	background-color: whitesmoke;
@@ -95,7 +95,7 @@ a {
 
 }
 
-a:hover, a:focus img {
+main a:hover, a:focus img {
 	transform: scale(1.02);
 		box-shadow: 
 	-2px -2px 1px rgba(0,0,0,0.5) inset,
@@ -117,4 +117,14 @@ figcaption .title {
 	display: block;
 	margin-bottom: 0.25rem;
 	font-size: 1.25rem;
+}
+
+footer {
+	margin: 2rem;
+}
+footer a {
+	color: hsl(227.8, 69.8%, 41.6%);
+}
+footer a:hover {
+	text-decoration: none;
 }
