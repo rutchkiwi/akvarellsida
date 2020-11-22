@@ -95,12 +95,23 @@ main a {
 
 }
 
-main a:hover, a:focus img {
+main a:hover, main a:focus {
 	transform: scale(1.02);
 		box-shadow: 
 	-2px -2px 1px rgba(0,0,0,0.5) inset,
 	23px 8px 12px rgba(0,0,0,0.26), 
 	44px 14px 14px rgba(0,0,0,0.15);
+}
+
+main a:active {
+	outline: none;
+	transform: scale(0.99);
+	transition: all 0.05s ease-in-out;
+box-shadow: 
+	-2px -2px 1px rgba(0,0,0,0.5) inset,
+	5px 0px 3px rgba(0,0,0,0.25), 
+	13px 5px 12px rgba(0,0,0,0.20);
+	
 }
 
 figcaption {
