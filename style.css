@@ -141,6 +141,7 @@ footer {
 }
 footer a {
 	color: hsl(227.8, 69.8%, 41.6%);
+	margin: 0 0.4rem;
 }
 footer a:hover {
 	text-decoration: none;
