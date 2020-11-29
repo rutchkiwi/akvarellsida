@@ -64,10 +64,11 @@ figure {
 	animation: 1s cubic-bezier(.26,.21,.98,.9) 0s 1 forwards dash;
 }
 
-
+figure>a {
+/* 	display: flex; */
+}
 
 img {
-	display: block;
 	max-width: calc(100vw - 100px);
 	max-height: 30rem;
 	width: auto;
@@ -125,9 +126,10 @@ figcaption {
 	width: auto;
 	display: block;
 	border-radius: 2px;
-	padding: 10px;
+	padding: 10px 8px;
 	margin: 1.5rem 1rem;
 	text-align: right;
+	margin-right: 0;
 }
 
 figcaption .title {
