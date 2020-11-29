@@ -84,7 +84,7 @@ img {
 
 
 
-main a {
+figure>a {
 	display: block;
 	border-radius: 5px;
 	background-color: whitesmoke;
@@ -98,7 +98,7 @@ main a {
 
 }
 
-main a:hover, main a:focus {
+figure>a:hover, figure>a:focus {
 	transform: scale(1.02);
 		box-shadow: 
 	-2px -2px 1px rgba(0,0,0,0.5) inset,
@@ -160,7 +160,28 @@ footer a:hover {
 		color: hsl(0, 17%, 75%);
 	}
 	
-	footer a {
+	footer a, figcaption a {
 	 color: hsl(160.4, 54.9%, 66.1%);
   }
+}
+
+html#not-found {
+  height: 100%;
+}
+
+#not-found body {
+	height: 100%;
+	display: flex;
+}
+
+#not-found main {
+  margin: auto;
+}
+
+#not-found figure>a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 200px;
+	width: 300px;
 }
