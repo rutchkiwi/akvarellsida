@@ -65,7 +65,7 @@ figure {
 }
 
 figure>a {
-/* 	display: flex; */
+	display: flex;
 }
 
 img {
@@ -181,10 +181,15 @@ html#not-found {
   margin: auto;
 }
 
+#not-found figure {
+	margin: 0;
+}
+
 #not-found figure>a {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	height: 200px;
 	width: 300px;
+	max-width: 50vw;
 }
