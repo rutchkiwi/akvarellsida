@@ -1,0 +1,11 @@
+server {
+    server_name lol.viktor.pictures;
+
+    root /home/helena/website;        
+  
+	index index.html;
+
+    listen 80 ;
+	listen [::]:80 ;
+}
+

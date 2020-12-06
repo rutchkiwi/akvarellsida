@@ -23,7 +23,6 @@ server {
     root /home/viktor/web;        
   
 	index index.html;
-    server_name viktor.pictures;
 
 	location / {
 		# First attempt to serve request as file, then
