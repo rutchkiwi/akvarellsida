@@ -68,7 +68,7 @@ figure>a {
 	display: flex;
 }
 
-img {
+figure>a>* {
 	max-width: calc(100vw - 100px);
 	max-height: 30rem;
 	width: auto;
@@ -86,7 +86,7 @@ img {
 
 
 figure>a {
-	display: grid;
+	display: block;
 	border-radius: 5px;
 	background-color: whitesmoke;
 	box-shadow: 
@@ -97,8 +97,23 @@ figure>a {
 	-5px -8px 40px hsla(0,0%,100%,0.12);
 	transition: all 0.4s ease;	
 }
-figure>a>* {
-	grid-area: 1 / 1 / 2 / 2;
+
+figure>a>svg {
+	display: none;
+}
+
+@supports (display: grid) {
+	/* hack to avoid CLS: 
+	  https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b */
+	figure>a {
+		display: grid;
+	}
+	figure>a>svg {
+		display: block;
+	}
+	figure>a>* {
+		grid-area: 1 / 1 / 2 / 2;
+	}
 }
 
 figure>a:hover, figure>a:focus {
