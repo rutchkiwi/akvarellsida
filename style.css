@@ -86,7 +86,7 @@ img {
 
 
 figure>a {
-	display: block;
+	display: grid;
 	border-radius: 5px;
 	background-color: whitesmoke;
 	box-shadow: 
@@ -95,8 +95,10 @@ figure>a {
 	40px 8px 10px rgba(0,0,0,0.15),
 	2px 2px 1px white inset,
 	-5px -8px 40px hsla(0,0%,100%,0.12);
-	transition: all 0.4s ease;
-
+	transition: all 0.4s ease;	
+}
+figure>a>* {
+	grid-area: 1 / 1 / 2 / 2;
 }
 
 figure>a:hover, figure>a:focus {
