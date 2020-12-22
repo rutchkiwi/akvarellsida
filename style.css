@@ -2,7 +2,8 @@
 	box-sizing: border-box;
 }
 
-svg {
+h1 svg {
+	margin-top: 1rem;
 	max-height: 9rem;
 }
 
