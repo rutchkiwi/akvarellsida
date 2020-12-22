@@ -108,6 +108,10 @@ figure>a>svg {
 	  https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b */
 	figure>a {
 		display: grid;
+		/* For when the title is very long, like the bridge.
+		   Would be better if I could force link breaks in the title 
+		   when it's wider than the picture. */
+		justify-items: center;
 	}
 	figure>a>svg {
 		display: block;
