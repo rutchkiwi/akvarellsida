@@ -7,13 +7,12 @@
 		<link>https://viktor.pictures</link>
 		<managingEditor>viktor.holmberg@gmail.com</managingEditor>
 
-		<image>
-			<url>https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=32%2C32&#038;ssl=1</url>
-			<title>Viktorcolors</title>
-			<link>https://viktor.pictures</link>
-			<width>32</width>
-			<height>32</height>
-		</image> 
+		<item>
+			<guid>Tappströms brygga</guid>
+			<title>Tappströms brygga</title>
+			<link>https://viktor.pictures/img/tappström.jpg</link>
+			<description><![CDATA[<img src="https://viktor.pictures/img/tappström.jpg">]]></description>
+		</item>
 		
 		<item>
 			<guid>Tallskog / Vinter</guid>
