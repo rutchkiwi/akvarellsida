@@ -8,6 +8,13 @@
 		<managingEditor>viktor.holmberg@gmail.com</managingEditor>
 
 		<item>
+			<guid>Banana</guid>
+			<title>Banana</title>
+			<link>https://viktor.pictures/img/banan.jpg</link>
+			<description><![CDATA[<img src="https://viktor.pictures/img/banan.jpg">]]></description>
+		</item>
+
+		<item>
 			<guid>Tappströms brygga</guid>
 			<title>Tappströms brygga</title>
 			<link>https://viktor.pictures/img/tappström.jpg</link>
