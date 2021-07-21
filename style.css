@@ -41,13 +41,13 @@ path {
 }
 
 #l {
-	animation-delay: 0.9s;
+	animation-delay: 0.8s;
 	animation-timing-function: linear;
 	animation-duration: 0.1s;
 }
 
 #h {
-	animation-delay: 1.1s;
+	animation-delay: 1.0s;
 	animation-duration: 1.1s;
 	animation-timing-function: cubic-bezier(.43,.46,.97,.61);
 	animation-iteration-count: 1;
