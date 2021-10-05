@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Viktorcolors</title>
-		<description>Watercolors by me, Viktor Holmberg</description>
+		<description>Watercolors by Viktor Holmberg</description>
 		<image>https://viktor.pictures/viktor-holmberg.png</image>
 		<link>https://viktor.pictures</link>
 		<managingEditor>viktor.holmberg@gmail.com</managingEditor>
@@ -30,9 +30,9 @@
 
 		<item>
 			<guid>Alla hjartans dag</guid>
-			<title>Alla hjärtans dag</title>
-			<link>https://viktor.pictures/img/alla-hjärtans-dag.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/alla-hjärtans-dag.jpg">]]></description>
+			<title>Södermalm</title>
+			<link>https://viktor.pictures/img/sodermalm.jpg</link>
+			<description><![CDATA[<img src="https://viktor.pictures/img/sodermalm.jpg">]]></description>
 		</item>
 
 		<item>
@@ -45,8 +45,8 @@
 		<item>
 			<guid>Tappströms brygga</guid>
 			<title>Tappströms brygga</title>
-			<link>https://viktor.pictures/img/tappström.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/tappström.jpg">]]></description>
+			<link>https://viktor.pictures/img/tappstrom.jpg</link>
+			<description><![CDATA[<img src="https://viktor.pictures/img/tappstrom.jpg">]]></description>
 		</item>
 		
 		<item>
