@@ -1,146 +1,154 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-	<channel>
-		<title>Viktorcolors</title>
-		<description>Watercolors by Viktor Holmberg</description>
-		<image>https://viktor.pictures/viktor-holmberg.png</image>
-		<link>https://viktor.pictures</link>
-		<managingEditor>viktor.holmberg@gmail.com</managingEditor>
+<channel>
+	<title>Viktorcolors</title>
+	<description>Watercolors by Viktor Holmberg</description>
+	<image>https://viktor.pictures/viktor-holmberg.png</image>
+	<link>https://viktor.pictures</link>
+	<managingEditor>v@viktorh.net</managingEditor>
 
-		<item>
-			<guid>Riverside</guid>
-			<title>Riverside</title>
-			<link>https://viktor.pictures/img/riverside.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/riverside.jpg">]]></description>
-		</item>
+	<!-- marker -->
+	<item>
+		<guid>Southend on Sea / Low Tide</guid>
+		<title>Southend on Sea / Low Tide</title>
+		<link>https://viktor.pictures/img/low-tide.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/low-tide.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Canary Wharf from Greenwhich</guid>
-			<title>Canary Wharf from Greenwhich</title>
-			<link>https://viktor.pictures/img/canary-wharf-from-greenwhich.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/canary-wharf-from-greenwhich.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Riverside</guid>
+		<title>Riverside</title>
+		<link>https://viktor.pictures/img/riverside.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/riverside.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Vinternatt</guid>
-			<title>Vinternatt</title>
-			<link>https://viktor.pictures/img/vinternatt.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/vinternatt.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Canary Wharf from Greenwhich</guid>
+		<title>Canary Wharf from Greenwhich</title>
+		<link>https://viktor.pictures/img/canary-wharf-from-greenwhich.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/canary-wharf-from-greenwhich.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Alla hjartans dag</guid>
-			<title>Södermalm</title>
-			<link>https://viktor.pictures/img/sodermalm.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/sodermalm.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Vinternatt</guid>
+		<title>Vinternatt</title>
+		<link>https://viktor.pictures/img/vinternatt.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/vinternatt.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Banana</guid>
-			<title>Banana</title>
-			<link>https://viktor.pictures/img/banan.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/banan.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Alla hjartans dag</guid>
+		<title>Södermalm</title>
+		<link>https://viktor.pictures/img/sodermalm.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/sodermalm.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Tappströms brygga</guid>
-			<title>Tappströms brygga</title>
-			<link>https://viktor.pictures/img/tappstrom.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/tappstrom.jpg">]]></description>
-		</item>
-		
-		<item>
-			<guid>Tallskog / Vinter</guid>
-			<title>Tallskog / Vinter</title>
-			<link>https://viktor.pictures/img/tallskog.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/tallskog.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Banana</guid>
+		<title>Banana</title>
+		<link>https://viktor.pictures/img/banan.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/banan.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Snofall / Nybroviken</guid>
-			<title>Snöfall / Nybroviken</title>
-			<link>https://viktor.pictures/img/nybroviken.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/nybroviken.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Tappströms brygga</guid>
+		<title>Tappströms brygga</title>
+		<link>https://viktor.pictures/img/tappstrom.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/tappstrom.jpg">]]></description>
+	</item>
+	
+	<item>
+		<guid>Tallskog / Vinter</guid>
+		<title>Tallskog / Vinter</title>
+		<link>https://viktor.pictures/img/tallskog.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/tallskog.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>The Thames from Limehouse</guid>
-			<title>The Thames from Limehouse</title>
-			<link>https://viktor.pictures/img/thames.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/thames.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Snofall / Nybroviken</guid>
+		<title>Snöfall / Nybroviken</title>
+		<link>https://viktor.pictures/img/nybroviken.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/nybroviken.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Hydraulic Power Station, Wapping</guid>
-			<title>Hydraulic Power Station, Wapping</title>
-			<link>https://viktor.pictures/img/hydraulic-power-station.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/hydraulic-power-station.jpg">]]></description>
-		</item>
+	<item>
+		<guid>The Thames from Limehouse</guid>
+		<title>The Thames from Limehouse</title>
+		<link>https://viktor.pictures/img/thames.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/thames.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Canary Wharf / Sunset</guid>
-			<title>Canary Wharf / Sunset</title>
-			<link>https://viktor.pictures/img/canary-wharf-sunset.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/canary-wharf-sunset.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Hydraulic Power Station, Wapping</guid>
+		<title>Hydraulic Power Station, Wapping</title>
+		<link>https://viktor.pictures/img/hydraulic-power-station.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/hydraulic-power-station.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Arctic sun</guid>
-			<title>Arctic sun</title>
-			<link>https://viktor.pictures/img/seal.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/seal.jpg">]]></description>
-		</item>
+	<item>
+		<guid>Canary Wharf / Sunset</guid>
+		<title>Canary Wharf / Sunset</title>
+		<link>https://viktor.pictures/img/canary-wharf-sunset.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/canary-wharf-sunset.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Fruits</guid>
-			<title>Fruits</title>
-			<link>https://viktor.pictures/img/fruits.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/fruits.jpg"]]>
-			</description>
-		</item>
+	<item>
+		<guid>Arctic sun</guid>
+		<title>Arctic sun</title>
+		<link>https://viktor.pictures/img/seal.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/seal.jpg">]]></description>
+	</item>
 
-		<item>
-			<guid>Arctic Sun 2</guid>
-			<title>Arctic Sun 2</title>
-			<link>https://viktor.pictures/img/arctic_sun_2.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/arctic_sun_2.jpg"]]>
-			</description>
-		</item>
+	<item>
+		<guid>Fruits</guid>
+		<title>Fruits</title>
+		<link>https://viktor.pictures/img/fruits.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/fruits.jpg"]]>
+		</description>
+	</item>
 
-		<item>
-			<guid>Arctic Sun</guid>
-			<title>Arctic Sun</title>
-			<link>https://viktor.pictures/img/seal.jpg</link>
-			<description><![CDATA[<img src="https://viktor.pictures/img/seal.jpg"]]>
-			</description>
-		</item>
+	<item>
+		<guid>Arctic Sun 2</guid>
+		<title>Arctic Sun 2</title>
+		<link>https://viktor.pictures/img/arctic_sun_2.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/arctic_sun_2.jpg"]]>
+		</description>
+	</item>
 
-
-		<item>
-			<guid>New Toaster</guid>
-			<title>New Toaster</title>
-			<link>https://viktor.pictures/img/toast.jpg</link>
-			<description><![CDATA[<img src='https://viktor.pictures/toast.jpg']]>
-			</description>
-		</item>
-
-
-		<item>
-			<guid>The old man</guid>
-			<title>The old man</title>
-			<link>https://viktor.pictures/img/old_man.jpg</link>
-			<description><![CDATA[<img src='https://viktor.pictures/old_man.jpg']]>
-			</description>
-		</item>
+	<item>
+		<guid>Arctic Sun</guid>
+		<title>Arctic Sun</title>
+		<link>https://viktor.pictures/img/seal.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/seal.jpg"]]>
+		</description>
+	</item>
 
 
-		<item>
-			<guid>Railway Bridge over Regents Canal</guid>
-			<title>Railway Bridge over Regents Canal</title>
-			<link>https://viktor.pictures/img/bridge.jpg</link>
-			<description><![CDATA[<img src='https://viktor.pictures/bridge.jpg']]>
-			</description>
-		</item>
+	<item>
+		<guid>New Toaster</guid>
+		<title>New Toaster</title>
+		<link>https://viktor.pictures/img/toast.jpg</link>
+		<description><![CDATA[<img src='https://viktor.pictures/toast.jpg']]>
+		</description>
+	</item>
 
-	</channel>
+
+	<item>
+		<guid>The old man</guid>
+		<title>The old man</title>
+		<link>https://viktor.pictures/img/old_man.jpg</link>
+		<description><![CDATA[<img src='https://viktor.pictures/old_man.jpg']]>
+		</description>
+	</item>
+
+
+	<item>
+		<guid>Railway Bridge over Regents Canal</guid>
+		<title>Railway Bridge over Regents Canal</title>
+		<link>https://viktor.pictures/img/bridge.jpg</link>
+		<description><![CDATA[<img src='https://viktor.pictures/bridge.jpg']]>
+		</description>
+	</item>
+
+</channel>
 </rss>
