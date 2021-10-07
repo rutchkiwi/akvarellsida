@@ -78,10 +78,10 @@ figure>a>* {
 	transition: opacity 1.5s ease;
 }
 
-@media (max-width: 450px) {
-	img {
-		padding: 30px;
-	}	
+@media (max-width: 500px) {
+  figure>a>* {
+		padding: 6vmin;
+	}
 }
 
 
