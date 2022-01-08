@@ -9,6 +9,12 @@
 
 	<!-- marker -->
 	<item>
+		<guid>Some rocks</guid>
+		<title>Some rocks</title>
+		<link>https://viktor.pictures/img/rocks.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/rocks.jpg">]]></description>
+	</item>
+	<item>
 		<guid>Shade / Canary wharf</guid>
 		<title>Shade / Canary wharf</title>
 		<link>https://viktor.pictures/img/shade.jpg</link>
