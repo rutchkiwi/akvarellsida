@@ -9,6 +9,12 @@
 
 	<!-- marker -->
 	<item>
+		<guid>Castle / Zamora</guid>
+		<title>Castle / Zamora</title>
+		<link>https://viktor.pictures/img/zamora.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/zamora.jpg">]]></description>
+	</item>
+	<item>
 		<guid>Some rocks</guid>
 		<title>Some rocks</title>
 		<link>https://viktor.pictures/img/rocks.jpg</link>
