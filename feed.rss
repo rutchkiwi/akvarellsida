@@ -9,6 +9,12 @@
 
 	<!-- marker -->
 	<item>
+		<guid>San Pedro Old Town</guid>
+		<title>San Pedro Old Town</title>
+		<link>https://viktor.pictures/img/san-pedro.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/san-pedro.jpg">]]></description>
+	</item>
+	<item>
 		<guid>Tiny Moment</guid>
 		<title>Tiny Moment</title>
 		<link>https://viktor.pictures/img/moment.jpg</link>
