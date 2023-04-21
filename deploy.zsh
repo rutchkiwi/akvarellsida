@@ -1,1 +1,1 @@
-rsync -rv --update * raspberry.lan:watercolor #move all files for watercolor site to raspberry
+rsync -rv --update * raw.viktor.pictures:watercolor #move all files for watercolor site to raspberry
