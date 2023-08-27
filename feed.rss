@@ -9,6 +9,12 @@
 
 	<!-- marker -->
 	<item>
+		<guid>Puddle</guid>
+		<title>Puddle</title>
+		<link>https://viktor.pictures/img/puddle.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/puddle.jpg">]]></description>
+	</item>
+	<item>
 		<guid>Pizza No.5</guid>
 		<title>Pizza No.5</title>
 		<link>https://viktor.pictures/img/pizza.jpg</link>
