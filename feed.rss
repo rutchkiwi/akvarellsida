@@ -9,6 +9,12 @@
 
 	<!-- marker -->
 	<item>
+		<guid>Ice cream break</guid>
+		<title>Ice cream break</title>
+		<link>https://viktor.pictures/img/glasspaus.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/glasspaus.jpg">]]></description>
+	</item>
+	<item>
 		<guid>People study / Greenwhich</guid>
 		<title>People study / Greenwhich</title>
 		<link>https://viktor.pictures/img/people.jpg</link>
