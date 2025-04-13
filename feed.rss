@@ -9,6 +9,12 @@
 
 	<!-- marker -->
 	<item>
+		<guid>High Speed</guid>
+		<title>High Speed</title>
+		<link>https://viktor.pictures/img/pulka.jpg</link>
+		<description><![CDATA[<img src="https://viktor.pictures/img/pulka.jpg">]]></description>
+	</item>
+	<item>
 		<guid>Rooftop views / Limehouse</guid>
 		<title>Rooftop views / Limehouse</title>
 		<link>https://viktor.pictures/img/roof.jpg</link>
