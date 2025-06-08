@@ -12,7 +12,7 @@ body {
 	font-style: italic;
 	color: hsl(0, 15%, 22%);
 	text-align: center;
-	background: linear-gradient(110deg, white, hsl(32.3, 3.1%, 70%));
+	background: repeating-linear-gradient(110deg, hsl(38.2, 30%, 97.8%), hsl(36, 15%, 85.5%) 1000px,  hsl(38.2, 100%, 97.8%) 2000px);
 }
 
 path {
@@ -62,7 +62,6 @@ main {
 }
 
 figure {
-	margin: 4rem;
 	animation: 1s cubic-bezier(.26,.21,.98,.9) 0s 1 forwards dash;
 }
 
@@ -119,6 +118,7 @@ figure>a>svg {
 	}
 	figure>a>* {
 		grid-area: 1 / 1 / 2 / 2;
+		max-width: 100%;
 	}
 }
 
